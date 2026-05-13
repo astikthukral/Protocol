@@ -11,7 +11,7 @@
 
 # AMBA AHB Multi-Master Bus Arbitration System
 
-> **AMBA 2 AHB compliant** · **3 Masters** · **Round-Robin + Priority Arbitration** · **125 MHz** · **Vivado / Verilog**
+> **AMBA 2 AHB compliant** · **3 Masters** · **Round-Robin + Priority Arbitration** · **125 MHz** · **Vivado / SystemVerilog**
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 1. Project Overview
 
-This project implements a **multi-master AMBA AHB bus arbitration system** in synthesizable Verilog, targeting **125 MHz operation** on Xilinx FPGAs (Vivado toolchain). It demonstrates the complete AHB interconnect fabric — arbitration, address decoding, data multiplexing, and protocol bridging — across three masters with mixed priority levels.
+This project implements a **multi-master AMBA AHB bus arbitration system** in synthesizable SystemVerilog, targeting **125 MHz operation** on Xilinx FPGAs (Vivado toolchain). It demonstrates the complete AHB interconnect fabric — arbitration, address decoding, data multiplexing, and protocol bridging — across three masters with mixed priority levels.
 
 ### What this system does
 
