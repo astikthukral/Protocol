@@ -55,7 +55,8 @@ This is **not** an AXI interconnect or a BusMatrix. It is a classic shared-bus A
 
 ### System block diagram
 
-<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/1256a0dc-fd75-4d83-9317-349eb3378788" />
+<img width="1024" height="739" alt="image" src="https://github.com/user-attachments/assets/3ca1afea-0568-421f-a173-643b7fb404a2" />
+
 
 
 ### Key data flows
